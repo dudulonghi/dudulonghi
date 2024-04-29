@@ -1,6 +1,6 @@
 ### Bem vindos👋
 
-Sou o Eduardo Longhi, estudando de Sistemas de Informação da Unicamp, atualmente estou no 5º semestre.
+Sou o Eduardo Longhi, estudante de Sistemas de Informação da Unicamp, atualmente estou no 5º semestre.
 
 ## Minhas Habilidades
 
